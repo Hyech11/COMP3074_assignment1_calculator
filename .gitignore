@@ -1,17 +1,14 @@
-# Android/Gradle cache folders
-/.gradle/
-/build/
+# Gradle and build outputs
+.gradle/
+build/
 app/build/
 captures/
 
-# IDE settings
-/.idea/
-/local.properties
+# Android Studio specific
+.idea/
+local.properties
 *.iml
 
-# OS files
+# OS / Misc
 .DS_Store
 Thumbs.db
-
-# Misc
-.gradle/
